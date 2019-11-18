@@ -1,0 +1,39 @@
+.header {background-color: #404040;
+        display: inline-block;
+        width: 160%;
+        height:4rem;
+        margin-right: 0px;
+        margin-left:0px;
+        text-align: center}
+.mtvare { 
+   }
+body {background-color: #676767;}
+.menu {display: inherit;}
+        
+.nishani { width: 100px;
+    `      margin-top:0px;          
+}
+.surati {    width: 28px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%}
+  
+    .search {background: #3c3c3c;
+            border: 0;
+            color: #bbb;
+            
+    border: 0;
+    color: #494949;
+    font-size: 15px;
+  
+    height: 40px;
+    padding: 0 0 0 10px;
+   box-shadow: none;
+    box-shadow: none;
+    box-shadow: none;
+        display: block;
+        overflow: visible;
+        font-family: roboto-geo-nusx,sans-serif;}
+
+.flex {background-color: #3c3c3c;
+         width="16"}
